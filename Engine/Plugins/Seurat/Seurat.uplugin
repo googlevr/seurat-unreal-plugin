@@ -1,0 +1,25 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Seurat",
+	"Description": "Seurat Scene Capture.",
+	"Category": "Other",
+	"CreatedBy": "Google, Inc.",
+	"CreatedByURL": "https://www.google.com/",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EnabledByDefault": false,
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "Seurat",
+			"Type": "Developer",
+			"LoadingPhase": "Default",
+			"WhitelistPlatforms" : [ "Win64", "Win32" ]
+		}
+	]
+}
