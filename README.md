@@ -1,6 +1,8 @@
 # Importing Seurat Meshes Into Unreal
 
-DISCLAIMER: This is not an officially supported Google product.
+Seurat is a scene simplification technology designed to process very complex 3D scenes into a representation that renders efficiently on mobile 6DoF VR systems.
+
+This document covers how to import Seurat meshes into Unity. To learn more about the Seurat pipeline, visit the main [Seurat GitHub page](https://github.com/googlevr/seurat).
 
 ## Introduction
 This document describes the process to import the output of the Seurat pipeline
@@ -92,3 +94,5 @@ Follow these steps:
 [png_01]: https://answers.unrealengine.com/questions/384955/texture-will-fill-empty-areas-with-lines.html
 [png_02]: https://forums.unrealengine.com/showthread.php?22982-Importing-any-PNG-with-alpha-channel-messes-up-the-image
 [png_03]: https://answers.unrealengine.com/questions/87474/while-importing-a-sprite-sheet-texture-unreal-is-a.html
+
+DISCLAIMER: This is not an officially supported Google product.
